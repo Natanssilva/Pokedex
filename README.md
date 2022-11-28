@@ -5,7 +5,7 @@ Pokedex desenvolvida com Javascript
   <img src="" >
 </div>
 
-> Acesse o projeto online **[AQUI]()**
+> Acesse o projeto online **[AQUI](https://ipokedex1.netlify.app/)**
 ## 🚀 Tecnologias utilizadas
 
 - [HTML5] 
