@@ -1,5 +1,5 @@
 # Pokedex
-Pokedex desenvolvida com Javascript 
+Pokedex responsiva pensando em mobile first desenvolvida com Javascript 
 ## 📹 Apresentação do projeto
 <div align="center">
   <video src="https://user-images.githubusercontent.com/99294586/204603194-c8367525-7318-4d05-b814-e2a19d543113.mp4" >
